@@ -41,6 +41,4 @@ Bits können über verschiedene Übertragungsmedien zwischen Computern versendet
 3. Funk / Radiowellen
 - hoher Komfort, Internet überall
 - hohe Verluste über Distanzen
-- 
-- 
-- 
+  
