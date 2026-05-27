@@ -17,4 +17,11 @@ Andere bekannte Auszeichnungssprachen sind:
 - Funktionsweise: Paketvermittlung (*Packet Switching*) - jedes Datenpaket sucht sich eine eigene route durch das Netzwerk
 - Internet: das Netz der Netze besteht aus vielen kleinen Netzen unterschiedlicher Internetanbieter (*Internet Service Provider -  ISP*, z.B. A1, Magenta, Salzburg AG, ...)
 
+### Teil 2 - The Internet : Wires, Cables & Wifi
+
+informationen werden im Interent als Bits Übertragen.
+Bits haben zwei Werte : 0 oder 1.  8 Bits ergeben 1 Byte . Mit einem Byte kann man 256 verschiedene Werte speichern (2^8 = 2*2*2*2*2*2*2*2).
+
+Bits können über verschiedene Übertragungsmedien zwischen Computern versendet werden.
+ Die Anzahl der übertragenen Bits pro Sekunde wird als Bandbreite bezeichnet - z.B.: 300Mbit/s -> 300 Millionen Bit können pro Sekunde über diese Leitung laufen.
 
