@@ -8,7 +8,12 @@ Andere bekannte Auszeichnungssprachen sind:
 - extensible Markup Language (XML)
 - yet Another markup Language (YAML, YML)
 
+## Playlist zur Funktionsweise des Internets
 
+### Teil 1- what is the Internet?
+
+- wurde in den 1970er - Jahren erfunden
+- Motivation: Schaffung eines dezentralen Netzwerks, das auch nach einem Atomschlag noch funktioniert (Kontext des Kalten krieges)
 
 
 
