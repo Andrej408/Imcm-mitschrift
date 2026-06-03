@@ -50,3 +50,15 @@ Bits können über verschiedene Übertragungsmedien zwischen Computern versendet
   - jedes Gerät im Internet hat zumindest eine (eindeutige) IP-Adresse, viele Geräte haben aber eine externe IP ( ähnlich wie die Hausnummer ) und eine Interne IP ( ähnlich wie die Raumnummer )
   - das Domain Name System (DNS) übersetzt menschenlesbare Domainnamen (z.B.: www.google.com) in IP-Adressen
   - DNS-Server führen Tabellen mit Domainnamen und den entsprechenden IP-Adressen
+
+
+  ### Teil 4 - the Internet: Packets, Routing and Reliability
+
+  - Daten die über da Internet versendet werden , werden in Packete aufgestellt
+  - Pakete sind in der Regel rund 1500 Byte groß (=1.5 KB). Das heißt ein 10MB großes Foto wurde in etwa 6667 Pakete aufgeteillt werden ( = 10 000KB = 10 000 000 Byte / 1500 Byte = 6667 Pakete )
+  - Pakete können unterschiedliche Routen durch das Internet nehmen. Die Routenplanung erfolgt durch spezielle Computer - sogennante Router .Router  entscheiden welchen Weg ein Paket durch das Internet nimmt. Die entscheidung basiert auf verschiedenen Faktoren, wie z.B. der aktuellen Auslastung der Verbindungen und der Entfernung zum Ziel.
+ - jedes paket enthält die IP-Adressen der Quelle und des Ziels sowie die Reihenfolge der Pakete ( damit sie am Ziel wieder korrekt zusammengesetzt werden können)
+
+
+
+
