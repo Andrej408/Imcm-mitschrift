@@ -69,7 +69,7 @@ Bits können über verschiedene Übertragungsmedien zwischen Computern versendet
  1. der Web-Client (Browser) schickt eine HTTP-Anfrage (*Request*) an den web-Server 
  2. der Web-Server übernimmt die Anfrage, bearbeitet sie und schickt eine HTTP-Antwort (*response*) zurück an den Web-Client. Dabei versieht er die Antwort mit einem [HTTP-Statuscode](https://de.wikepedia.org/wiki/HTTP-Statuscode). Diese sind in verschiedene Klassen eingestellt
 
- > [NOTE]
+ 
  > #### HTTP-Statuscode-Klassen
  >
  > - **1xx** - die Anfrage dauert noch an 
@@ -77,11 +77,17 @@ Bits können über verschiedene Übertragungsmedien zwischen Computern versendet
  > - **3xx** - weiter oder Umleitung 
  > - **4xx** - Clientfehler (z.B. 404 - Not Found)
  > - **5xx** - Serverfehler
+ - Daten ( Websiten, Bilder, Videos) werden mit der GET-Anfrage angefordert 
+ -  User-Input ( Texteingaben, Dateinuploads, ...) werden mittels 
+ POST-Anfragen verschlüsselt übermittelt
+ - GET und POST sind sogennante **HTTP-Methoden**. Es gibt noch weitere Methoden, die wir erst später lernen. 
+ - HTTP-Anfragen und Antworten könne auch **Cookies** enthalten. Das sind kleine Textdatein, die aus Schlüssel-Wert-Paaren
+ (*key-volue-pairs*) bestehen. Ist ein Cookie einmal gesetzt, wird es mit jeder Anfrage mitgesendet. So kann der Webserver einzelne User wiederkennen bzw.Identifizieren.
+ 
 
 
 
-
- - 
+ 
 
 
 
