@@ -57,7 +57,48 @@ Bits können über verschiedene Übertragungsmedien zwischen Computern versendet
   - Daten die über da Internet versendet werden , werden in Packete aufgestellt
   - Pakete sind in der Regel rund 1500 Byte groß (=1.5 KB). Das heißt ein 10MB großes Foto wurde in etwa 6667 Pakete aufgeteillt werden ( = 10 000KB = 10 000 000 Byte / 1500 Byte = 6667 Pakete )
   - Pakete können unterschiedliche Routen durch das Internet nehmen. Die Routenplanung erfolgt durch spezielle Computer - sogennante Router .Router  entscheiden welchen Weg ein Paket durch das Internet nimmt. Die entscheidung basiert auf verschiedenen Faktoren, wie z.B. der aktuellen Auslastung der Verbindungen und der Entfernung zum Ziel.
- - jedes paket enthält die IP-Adressen der Quelle und des Ziels sowie die Reihenfolge der Pakete ( damit sie am Ziel wieder korrekt zusammengesetzt werden können)
+  - jedes paket enthält die IP-Adressen der Quelle und des Ziels sowie die Reihenfolge der Pakete ( damit sie am Ziel wieder korrekt zusammengesetzt werden können ) 
+  - am Ziel wird die vollständigkeit der Pakete durch das *Tarnsmission Control Protocol* (TCP) überprüft. Wenn Pakete beschädigt oder verloren gehen, 
+  - TCP und IP bilden gemeinsam die Basis für die Funktionsweise des Internets - man spricht auch vom TCP/IP Modell
+
+ ### Teil 5 - The Internet: HTTP und HTML
+
+
+ - das *Hypertext Transfer protocol* ( HTTP) ist das Protocol, das für die Übertragung von Webseiten verwendet wird 
+ - der Ablauf ist immer derselbe: 
+ 1. der Web-Client (Browser) schickt eine HTTP-Anfrage (*Request*) an den web-Server 
+ 2. der Web-Server übernimmt die Anfrage, bearbeitet sie und schickt eine HTTP-Antwort (*response*) zurück an den Web-Client. Dabei versieht er die Antwort mit einem [HTTP-Statuscode](https://de.wikepedia.org/wiki/HTTP-Statuscode). Diese sind in verschiedene Klassen eingestellt
+
+ > [NOTE]
+ > #### HTTP-Statuscode-Klassen
+ >
+ > - **1xx** - die Anfrage dauert noch an 
+ > - **2xx** - die Anfrage war erfolgreich 
+ > - **3xx** - weiter oder Umleitung 
+ > - **4xx** - Clientfehler (z.B. 404 - Not Found)
+ > - **5xx** - Serverfehler
+
+
+
+
+ - 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
