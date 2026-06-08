@@ -84,6 +84,14 @@ Bits können über verschiedene Übertragungsmedien zwischen Computern versendet
  - HTTP-Anfragen und Antworten könne auch **Cookies** enthalten. Das sind kleine Textdatein, die aus Schlüssel-Wert-Paaren
  (*key-volue-pairs*) bestehen. Ist ein Cookie einmal gesetzt, wird es mit jeder Anfrage mitgesendet. So kann der Webserver einzelne User wiederkennen bzw.Identifizieren.
 
+### Teil 8 - The Internet: How Search Works
+
+- Suchmaschienen Bots (*Crawler*) durchstreichen ständig das WWW und katalogisieren Websites . Der entstehende Katalog wird auch **Index** gennant.
+- wenn wir einen Suchbegriff bei Google (oder einer anderen *Search Engine*)eingeben, wird Nicht das WWW durchsucht, sondern lediglich der zuvor erstellte Index
+- Suchergebnisse werden auf basis eines (geheimen) Algorithmus geranked - Ergebnisse die weiter oben stehen, werden öfter angeklickt 
+- Einfluss auf das Ranking haben u.a.:
+   - im Text vorkommende Suchbegriffe (*Keywords*) 
+   - Links, die auf meine Seite zeigen (*BackLinks*)
 
 
 
