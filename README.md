@@ -92,6 +92,7 @@ Bits können über verschiedene Übertragungsmedien zwischen Computern versendet
 - Einfluss auf das Ranking haben u.a.:
    - im Text vorkommende Suchbegriffe (*Keywords*) 
    - Links, die auf meine Seite zeigen (*BackLinks*)
+- die Suchergebnisse werden an die Benutzer angepasst D.H. , nicht jeder sieht die gleichen Informationen, selbst  wenn sie idente Suchanfragen durchführen.
 
 
 
