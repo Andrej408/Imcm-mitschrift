@@ -93,7 +93,7 @@ Bits können über verschiedene Übertragungsmedien zwischen Computern versendet
    - im Text vorkommende Suchbegriffe (*Keywords*) 
    - Links, die auf meine Seite zeigen (*BackLinks*)
 - die Suchergebnisse werden an die Benutzer angepasst D.H. , nicht jeder sieht die gleichen Informationen, selbst  wenn sie idente Suchanfragen durchführen.
-[Startpage](https://www.startpage.com/) ist eine datensparsame Suchmaschiene, die ihren Benützer die Verwendung von Google ohne Tracking oder Personalisierungen erlaubt
+[Startpage](https://www.startpage.com/) ist eine datensparsame Suchmaschiene, die ihren Benützer die Verwendung von Google ohne Tracking oder Personalisierungen erlaubtss
 
 
  
